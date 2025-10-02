@@ -18,6 +18,6 @@ metadata:
   tags: ["python", "pip", "flask", "sscs", "sbom", "acs"] 
 spec:
   type: service
-  owner: user:guest 
+  owner: user:johnwilkins 
   lifecycle: experimental
  
